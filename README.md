@@ -4,7 +4,6 @@ A comprehensive list of cryptcurrency related resources.
  Total # of exchanges: 96
  
  [JSON Version](http://example.com)
- 
  [XML Version](http://example.com)
 
 
@@ -110,6 +109,7 @@ A comprehensive list of cryptcurrency related resources.
 ## Crypto Wallets
 
  Total # of wallets: 19
+ 
  [JSON Version](http://example.com)
  [XML Version](http://example.com)
 
