@@ -2,7 +2,9 @@ A comprehensive list of cryptcurrency related resources.
 
 ## Cryptocurrency Exchanges
  Total # of exchanges: 96
+ 
  [JSON Version](http://example.com)
+ 
  [XML Version](http://example.com)
 
 
