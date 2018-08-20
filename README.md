@@ -3,8 +3,9 @@ A comprehensive list of cryptcurrency related resources.
 ## Cryptocurrency Exchanges
  Total # of exchanges: 96
  
- [JSON Version](http://example.com)
- [XML Version](http://example.com)
+ [JSON Version](https://raw.githubusercontent.com/FesoVel/Crypto-Resource-List/master/json/exchanges.json)
+ 
+ [XML Version](https://raw.githubusercontent.com/FesoVel/Crypto-Resource-List/master/xml/exchanges.xml)
 
 
 | Name                  | Website                             |
@@ -110,8 +111,9 @@ A comprehensive list of cryptcurrency related resources.
 
  Total # of wallets: 19
  
- [JSON Version](http://example.com)
- [XML Version](http://example.com)
+ [JSON Version](https://raw.githubusercontent.com/FesoVel/Crypto-Resource-List/master/json/wallets.json)
+ 
+ [XML Version](https://raw.githubusercontent.com/FesoVel/Crypto-Resource-List/master/xml/wallets.xml)
 
 | Name                 | Website                     | Supported Currencies                                                                                                                                              |
 | -------------------- | ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |
