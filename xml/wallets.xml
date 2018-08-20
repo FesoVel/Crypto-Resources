@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<wallet>
+		<name>Airbitz</name>
+		<website>https://edge.app/</website>
+		<supported>BTC, BCH, ETH, LTC, XMR, XRP, DASH, REP, WINGS, IND, XZC, FTC</supported>
+	</wallet>
+	<wallet>
+		<name>Armory Wallet</name>
+		<website>https://www.bitcoinarmory.com/</website>
+		<supported>BTC</supported>
+	</wallet>
+	<wallet>
+		<name>Bitcoin Core</name>
+		<website>https://bitcoin.org</website>
+		<supported>BTC</supported>
+	</wallet>
+	<wallet>
+		<name>Blockchain Wallet</name>
+		<website>https://www.blockchain.com/</website>
+		<supported>BTC, BCH, ETH</supported>
+	</wallet>
+	<wallet>
+		<name>Bread Wallet</name>
+		<website>https://brd.com/</website>
+		<supported>BTC</supported>
+	</wallet>
+	<wallet>
+		<name>BTC Wallet</name>
+		<website>https://btc.com/</website>
+		<supported>BTC, BCH</supported>
+	</wallet>
+	<wallet>
+		<name>Celery Wallet</name>
+		<website>https://www.gocelery.com/</website>
+		<supported>BTC, LTC, DOGE</supported>
+	</wallet>
+	<wallet>
+		<name>Coinomi Wallet</name>
+		<website>https://www.coinomi.com/</website>
+		<supported>BTC, ETH, ETC, BTG, DOGE, LTC, LCC, BCH, DASH, NBT, PPC, RDD, MONA, DGB, DGC, NEOS, XVG, VTC, BTA, ABN &amp; 100+ more</supported>
+	</wallet>
+	<wallet>
+		<name>Copay Wallet</name>
+		<website>https://copay.io/</website>
+		<supported>BTC, BCH</supported>
+	</wallet>
+	<wallet>
+		<name>Electrum Wallet</name>
+		<website>https://electrum.org/</website>
+		<supported>BTC</supported>
+	</wallet>
+	<wallet>
+		<name>Ethereum Wallet</name>
+		<website>https://www.ethereum.org/</website>
+		<supported>ETH, ERC20</supported>
+	</wallet>
+	<wallet>
+		<name>Exodus Wallet</name>
+		<website>https://www.exodus.io/</website>
+		<supported>BTC, BCH, BTG, LTC, ETH, DASH, ETC, VTC, FUN, DCR, EOS, ANT, GNO, OMG, BAT &amp; 15+ more</supported>
+	</wallet>
+	<wallet>
+		<name>GreenAddress Wallet</name>
+		<website>https://greenaddress.it/</website>
+		<supported>BTC</supported>
+	</wallet>
+	<wallet>
+		<name>Jaxx Wallet</name>
+		<website>https://jaxx.io/</website>
+		<supported>BTC, ETH, DASH, ETC, BCH, REP, LTC, ZEC, RSK, DGE, ICN, GNT, GNO, DGD, BCAP, CVC, STX, POE, MCI, QTUM, CFI, ART, PAY &amp; 30+ more</supported>
+	</wallet>
+	<wallet>
+		<name>KeepKey Wallet</name>
+		<website>https://www.keepkey.com/</website>
+		<supported>BTC, BCH , DASH, DOGE, ETH, LTC, NMC</supported>
+	</wallet>
+	<wallet>
+		<name>Ledger Nano S Wallet</name>
+		<website>https://www.ledger.com/</website>
+		<supported>BTC, BCH, BTG, ETH, ETC, LTC, DOGE, ZEC, XRP, DASH, STRAT, KMD, ARK, EXP, UBQ, VTC, VIA, NEO, XST, XLM, HSR, DGB, QTUM, PIVX, POSW, EOS, ERC20</supported>
+	</wallet>
+	<wallet>
+		<name>Mycelium Wallet</name>
+		<website>https://wallet.mycelium.com/</website>
+		<supported>BTC</supported>
+	</wallet>
+	<wallet>
+		<name>MyEtherWallet</name>
+		<website>https://www.myetherwallet.com/</website>
+		<supported>ETH, ETC, EOS &amp; ERC20 tokens</supported>
+	</wallet>
+	<wallet>
+		<name>TREZOR Wallet</name>
+		<website>https://trezor.io/</website>
+		<supported>BTC, BCH, BTG, LTC, DASH, DOGE, ETC, ETH, ERC20, NEM, NMC, ZEC, EXP, UBQ</supported>
+	</wallet>
+</root>

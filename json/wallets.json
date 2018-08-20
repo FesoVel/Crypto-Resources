@@ -1,0 +1,97 @@
+[
+    [  
+        "Airbitz",
+        "https://edge.app/",
+        "BTC, BCH, ETH, LTC, XMR, XRP, DASH, REP, WINGS, IND, XZC, FTC"
+    ],
+    [  
+        "Armory Wallet",
+        "https://www.bitcoinarmory.com/",
+        "BTC"
+    ],
+    [  
+        "Bitcoin Core",
+        "https://bitcoin.org",
+        "BTC"
+    ],
+    [  
+        "Blockchain Wallet",
+        "https://www.blockchain.com/",
+        "BTC, BCH, ETH"
+    ],
+    [  
+        "Bread Wallet",
+        "https://brd.com/",
+        "BTC"
+    ],
+    [  
+        "BTC Wallet",
+        "https://btc.com/",
+        "BTC, BCH"
+    ],
+    [  
+        "Celery Wallet",
+        "https://www.gocelery.com/",
+        "BTC, LTC, DOGE"
+    ],
+    [  
+        "Coinomi Wallet",
+        "https://www.coinomi.com/",
+        "BTC, ETH, ETC, BTG, DOGE, LTC, LCC, BCH, DASH, NBT, PPC, RDD, MONA, DGB, DGC, NEOS, XVG, VTC, BTA, ABN & 100+ more"
+    ],
+    [  
+        "Copay Wallet",
+        "https://copay.io/",
+        "BTC, BCH"
+    ],
+    [  
+        "Electrum Wallet",
+        "https://electrum.org/",
+        "BTC"
+    ],
+    [  
+        "Ethereum Wallet",
+        "https://www.ethereum.org/",
+        "ETH, ERC20"
+    ],
+    [  
+        "Exodus Wallet",
+        "https://www.exodus.io/",
+        "BTC, BCH, BTG, LTC, ETH, DASH, ETC, VTC, FUN, DCR, EOS, ANT, GNO, OMG, BAT & 15+ more"
+    ],
+    [  
+        "GreenAddress Wallet",
+        "https://greenaddress.it/",
+        "BTC"
+    ],
+    [  
+        "Jaxx Wallet",
+        "https://jaxx.io/",
+        "BTC, ETH, DASH, ETC, BCH, REP, LTC, ZEC, RSK, DGE, ICN, GNT, GNO, DGD, BCAP, CVC, STX, POE, MCI, QTUM, CFI, ART, PAY & 30+ more"
+    ],
+    [  
+        "KeepKey Wallet",
+        "https://www.keepkey.com/",
+        "BTC, BCH , DASH, DOGE, ETH, LTC, NMC"
+    ],
+    [  
+        "Ledger Nano S Wallet",
+        "https://www.ledger.com/",
+        "BTC, BCH, BTG, ETH, ETC, LTC, DOGE, ZEC, XRP, DASH, STRAT, KMD, ARK, EXP, UBQ, VTC, VIA, NEO, XST, XLM, HSR, DGB, QTUM, PIVX, POSW, EOS, ERC20"
+    ],
+    [  
+        "Mycelium Wallet",
+        "https://wallet.mycelium.com/",
+        "BTC"
+    ],
+    [  
+        "MyEtherWallet",
+        "https://www.myetherwallet.com/",
+        "ETH, ETC, EOS & ERC20 tokens"
+    ],
+    [  
+        "TREZOR Wallet",
+        "https://trezor.io/",
+        "BTC, BCH, BTG, LTC, DASH, DOGE, ETC, ETH, ERC20, NEM, NMC, ZEC, EXP, UBQ"
+    ]
+]
