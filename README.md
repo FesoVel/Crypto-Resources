@@ -139,6 +139,7 @@ A comprehensive list of cryptcurrency related resources.
 
 ## Cryptocurrency APIs
  Total # of APIs: 10
+ 
  [JSON Version](https://raw.githubusercontent.com/FesoVel/Crypto-Resource-List/master/json/apis.json)
  
  [XML Version](https://raw.githubusercontent.com/FesoVel/Crypto-Resource-List/master/xml/apis.xml)
