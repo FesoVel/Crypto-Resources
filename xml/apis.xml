@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<api>
+		<name>CoinAPI</name>
+		<website>https://www.coinapi.io/</website>
+	</api>
+	<api>
+		<name>CryptoCompare</name>
+		<website>https://www.cryptocompare.com/api/</website>
+	</api>
+	<api>
+		<name>CoinMarketCap</name>
+		<website>https://pro.coinmarketcap.com/</website>
+	</api>
+	<api>
+		<name>CoinBase</name>
+		<website>https://developers.coinbase.com/</website>
+	</api>
+	<api>
+		<name>Binance API</name>
+		<website>https://github.com/binance-exchange/binance-official-api-docs/blob/master/rest-api.md</website>
+	</api>
+	<api>
+		<name>BitPay API</name>
+		<website>https://bitpay.com/api</website>
+	</api>
+	<api>
+		<name>CoinGecko</name>
+		<website>https://www.coingecko.com/api/docs/v3</website>
+	</api>
+	<api>
+		<name>Nexchange</name>
+		<website>https://nexchange2.docs.apiary.io/</website>
+	</api>
+	<api>
+		<name>BitcoinAverage</name>
+		<website>https://bitcoinaverage.com/en/api-collections</website>
+	</api>
+	<api>
+		<name>Blockchain API</name>
+		<website>https://www.blockchain.com/api</website>
+	</api>
+</root>

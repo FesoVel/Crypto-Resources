@@ -1,0 +1,42 @@
+[
+    [  
+        "CoinAPI",
+        "https://www.coinapi.io/"
+    ],
+    [  
+        "CryptoCompare",
+        "https://www.cryptocompare.com/api/"
+    ],
+    [  
+        "CoinMarketCap",
+        "https://pro.coinmarketcap.com/"
+    ],
+    [  
+        "CoinBase",
+        "https://developers.coinbase.com/"
+    ],
+    [  
+        "Binance API",
+        "https://github.com/binance-exchange/binance-official-api-docs/blob/master/rest-api.md"
+    ],
+    [  
+        "BitPay API",
+        "https://bitpay.com/api"
+    ],
+    [  
+        "CoinGecko",
+        "https://www.coingecko.com/api/docs/v3"
+    ],
+    [  
+        "Nexchange",
+        "https://nexchange2.docs.apiary.io/"
+    ],
+    [  
+        "BitcoinAverage",
+        "https://bitcoinaverage.com/en/api-collections"
+    ],
+    [  
+        "Blockchain API",
+        "https://www.blockchain.com/api"
+    ],
+]

@@ -136,3 +136,22 @@ A comprehensive list of cryptcurrency related resources.
 | Mycelium Wallet      | https://wallet.mycelium.com/   | BTC                                                                                                                                            |
 | MyEtherWallet        | https://www.myetherwallet.com/ | ETH, ETC, EOS & ERC20 tokens                                                                                                                   |
 | TREZOR Wallet        | https://trezor.io/             | BTC, BCH, BTG, LTC, DASH, DOGE, ETC, ETH, ERC20, NEM, NMC, ZEC, EXP, UBQ                                                                       |
+
+## Cryptocurrency APIs
+ Total # of APIs: 10
+ [JSON Version](https://raw.githubusercontent.com/FesoVel/Crypto-Resource-List/master/json/apis.json)
+ [XML Version](https://raw.githubusercontent.com/FesoVel/Crypto-Resource-List/master/json/apis.xml)
+
+
+| Name                  | Website                                                                               |
+| --------------------- | ------------------------------------------------------------------------------------- |
+| CoinAPI               | https://www.coinapi.io/                                                               |
+| CryptoCompare         | https://www.cryptocompare.com/api/                                                    |
+| CoinMarketCap         | https://pro.coinmarketcap.com/                                                        |
+| CoinBase              | https://developers.coinbase.com/                                                      |
+| Binance API           | https://github.com/binance-exchange/binance-official-api-docs/blob/master/rest-api.md |
+| BitPay API            | https://bitpay.com/api                                                                |
+| CoinGecko             | https://www.coingecko.com/api/docs/v3                                                 |
+| Nexchange             | https://nexchange2.docs.apiary.io/                                                    |
+| BitcoinAverage        | https://bitcoinaverage.com/en/api-collections                                         |
+| Blockchain API        | https://www.blockchain.com/api                                                        |
