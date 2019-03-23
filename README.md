@@ -1,6 +1,6 @@
 A comprehensive list of cryptcurrency related resources.
 
-## Cryptocurrency Exchanges
+## Exchanges
  Total # of exchanges: 96
  
  [JSON Version](https://raw.githubusercontent.com/FesoVel/Crypto-Resource-List/master/json/exchanges.json)
@@ -107,7 +107,7 @@ A comprehensive list of cryptcurrency related resources.
 | ANXPro                | https://anxpro.com/                 |
 | Lykke                 | https://www.lykke.com/              |
 
-## Crypto Wallets
+## Wallets
 
  Total # of wallets: 19
  
@@ -137,7 +137,7 @@ A comprehensive list of cryptcurrency related resources.
 | MyEtherWallet        | https://www.myetherwallet.com/ | ETH, ETC, EOS & ERC20 tokens                                                                                                                   |
 | TREZOR Wallet        | https://trezor.io/             | BTC, BCH, BTG, LTC, DASH, DOGE, ETC, ETH, ERC20, NEM, NMC, ZEC, EXP, UBQ                                                                       |
 
-## Cryptocurrency APIs
+## APIs
  Total # of APIs: 10
  
  [JSON Version](https://raw.githubusercontent.com/FesoVel/Crypto-Resource-List/master/json/apis.json)
