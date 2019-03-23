@@ -7,7 +7,7 @@ A curated list of cryptcurrency related resources. All links are manually added 
 - [Wallets](#wallets)
 
 ## Magazines and Blogs
- Total listed: 96
+ Total listed: 9
  
  [JSON Version](https://raw.githubusercontent.com/FesoVel/Crypto-Resource-List/master/json/blogs.json)
  
