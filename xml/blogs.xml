@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<blog>
+		<name>Binance</name>
+		<website>https://www.binance.com/</website>
+	</blog>
+	<blog>
+		<name>CoinTelegraph</name>
+		<website>https://cointelegraph.com</website>
+	</blog>
+	<blog>
+		<name>Coindesk</name>
+		<website>https://www.coindesk.com</website>
+	</blog>
+	<blog>
+		<name>Crypto Coin News</name>
+		<website>https://www.ccn.com</website>
+	</blog>
+	<blog>
+		<name>Bitcoin Magazine</name>
+		<website>https://bitcoinmagazine.com</website>
+	</blog>
+	<blog>
+		<name>99 Bitcoins</name>
+		<website>https://99bitcoins.com</website>
+	</blog>
+	<blog>
+		<name>Toshi Times</name>
+		<website>https://toshitimes.com</website>
+	</blog>
+	<blog>
+		<name>Coin Speaker</name>
+		<website>https://www.coinspeaker.com</website>
+	</blog>
+	<blog>
+		<name>Crypto Ground</name>
+		<website>https://www.cryptoground.com</website>
+	</blog>
+	<blog>
+		<name>CoinGape</name>
+		<website>https://coingape.com</website>
+	</blog>
+</root>

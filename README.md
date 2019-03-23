@@ -1,7 +1,33 @@
-A comprehensive list of cryptcurrency related resources.
+A curated list of cryptcurrency related resources. All links are manually added and the data is available in JSON and XML formats.
+
+## Contents
+
+- [Magazines and Blogs](#magazine-and-blogs)
+- [Exchanges](#exchanges)
+- [Wallets](#wallets)
+
+## Magazines and Blogs
+ Total listed: 96
+ 
+ [JSON Version](https://raw.githubusercontent.com/FesoVel/Crypto-Resource-List/master/json/exchanges.json)
+ 
+ [XML Version](https://raw.githubusercontent.com/FesoVel/Crypto-Resource-List/master/xml/exchanges.xml)
+
+| Name                  | Website                             |
+| --------------------- | ----------------------------------- |
+| CoinTelegraph         | https://cointelegraph.com/          |
+| Coindesk              | https://www.coindesk.com/           |
+| Crypto Coin News      | https://www.ccn.com/                |
+| Bitcoin Magazine      | https://bitcoinmagazine.com/        |
+| 99 Bitcoins           | https://99bitcoins.com/             |
+| Toshi Times           | https://toshitimes.com/             |
+| Coin Speaker          | https://www.coinspeaker.com/        |
+| Crypto Ground         | https://www.cryptoground.com/       |
+| CoinGape              | https://coingape.com/               |
+
 
 ## Exchanges
- Total # of exchanges: 96
+ Total listed: 96
  
  [JSON Version](https://raw.githubusercontent.com/FesoVel/Crypto-Resource-List/master/json/exchanges.json)
  
@@ -109,7 +135,7 @@ A comprehensive list of cryptcurrency related resources.
 
 ## Wallets
 
- Total # of wallets: 19
+ Total listed: 19
  
  [JSON Version](https://raw.githubusercontent.com/FesoVel/Crypto-Resource-List/master/json/wallets.json)
  
@@ -138,7 +164,7 @@ A comprehensive list of cryptcurrency related resources.
 | TREZOR Wallet        | https://trezor.io/             | BTC, BCH, BTG, LTC, DASH, DOGE, ETC, ETH, ERC20, NEM, NMC, ZEC, EXP, UBQ                                                                       |
 
 ## APIs
- Total # of APIs: 10
+ Total listed: 10
  
  [JSON Version](https://raw.githubusercontent.com/FesoVel/Crypto-Resource-List/master/json/apis.json)
  
