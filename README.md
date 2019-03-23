@@ -2,16 +2,16 @@ A curated list of cryptcurrency related resources. All links are manually added 
 
 ## Contents
 
-- [Magazines and Blogs](#magazine-and-blogs)
+- [Magazines and Blogs](#magazines-and-blogs)
 - [Exchanges](#exchanges)
 - [Wallets](#wallets)
 
 ## Magazines and Blogs
  Total listed: 96
  
- [JSON Version](https://raw.githubusercontent.com/FesoVel/Crypto-Resource-List/master/json/exchanges.json)
+ [JSON Version](https://raw.githubusercontent.com/FesoVel/Crypto-Resource-List/master/json/blogs.json)
  
- [XML Version](https://raw.githubusercontent.com/FesoVel/Crypto-Resource-List/master/xml/exchanges.xml)
+ [XML Version](https://raw.githubusercontent.com/FesoVel/Crypto-Resource-List/master/xml/blogs.xml)
 
 | Name                  | Website                             |
 | --------------------- | ----------------------------------- |
