@@ -7,7 +7,7 @@ A curated list of cryptcurrency related resources. All links are manually added 
 - [Wallets](#wallets)
 
 ## Magazines and Blogs
- Total listed: 9
+ Total listed: 10
  
  [JSON Version](https://raw.githubusercontent.com/FesoVel/Crypto-Resource-List/master/json/blogs.json)
  
@@ -24,6 +24,7 @@ A curated list of cryptcurrency related resources. All links are manually added 
 | Coin Speaker          | https://www.coinspeaker.com/        |
 | Crypto Ground         | https://www.cryptoground.com/       |
 | CoinGape              | https://coingape.com/               |
+| Null TX               | https://nulltx.com/                 |
 
 
 ## Exchanges
