@@ -40,4 +40,8 @@
 		<name>CoinGape</name>
 		<website>https://coingape.com</website>
 	</blog>
+	<blog>
+		<name>Null TX</name>
+		<website>https://nulltx.com/</website>
+	</blog>
 </root>
