@@ -1,4 +1,4 @@
-A curated list of cryptcurrency related resources. All links are manually added and the data is available in JSON and XML formats.
+A curated list of cryptcurrency related resources. All resource links are manually added and the data is available in JSON and XML formats.
 
 ## Contents
 
