@@ -44,4 +44,44 @@
 		<name>Null TX</name>
 		<website>https://nulltx.com/</website>
 	</blog>
+	<blog>
+		<name>Bitcoinist</name>
+		<website>https://bitcoinist.com/</website>
+	</blog>
+	<blog>
+		<name>Bitcoin</name>
+		<website>https://bitcoin.com/</website>
+	</blog>
+	<blog>
+		<name>Crypto Invest</name>
+		<website>https://cryptovest.com/</website>
+	</blog>
+	<blog>
+		<name>Blocknomi</name>
+		<website>https://blockonomi.com/</website>
+	</blog>
+	<blog>
+		<name>News BTC</name>
+		<website>https://www.newsbtc.com/</website>
+	</blog>
+	<blog>
+		<name>Invest In Blockchain</name>
+		<website>https://www.investinblockchain.com/</website>
+	</blog>
+	<blog>
+		<name>Use The Bitcoin</name>
+		<website>https://usethebitcoin.com/</website>
+	</blog>
+	<blog>
+		<name>Coindoo</name>
+		<website>https://coindoo.com/</website>
+	</blog>
+	<blog>
+		<name>Crypto News</name>
+		<website>https://www.crypto-news.net/</website>
+	</blog>
+	<blog>
+		<name>Today On Chain</name>
+		<website>https://www.todayonchain.com/</website>
+	</blog>
 </root>

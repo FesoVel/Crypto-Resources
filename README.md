@@ -7,7 +7,7 @@ A curated list of cryptcurrency related resources. All links are manually added 
 - [Wallets](#wallets)
 
 ## Magazines and Blogs
- Total listed: 10
+ Total listed: 20
  
  [JSON Version](https://raw.githubusercontent.com/FesoVel/Crypto-Resource-List/master/json/blogs.json)
  
@@ -25,6 +25,16 @@ A curated list of cryptcurrency related resources. All links are manually added 
 | Crypto Ground         | https://www.cryptoground.com/       |
 | CoinGape              | https://coingape.com/               |
 | Null TX               | https://nulltx.com/                 |
+| Bitcoinist            | https://bitcoinist.com/             |
+| Bitcoin               | https://bitcoin.com/                |
+| Crypto Invest         | https://cryptovest.com/             |
+| Blocknomi             | https://blockonomi.com/             |
+| NewsBTC               | https://www.newsbtc.com/            |
+| Invest In Blockchain  | https://www.investinblockchain.com/ |
+| Use The Bitcoin       | https://usethebitcoin.com/          |
+| Coindoo               | https://coindoo.com/                |
+| Crypto News           | https://www.crypto-news.net/        |
+| Today On Chain        | https://www.todayonchain.com/       |
 
 
 ## Exchanges
